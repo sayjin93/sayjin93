@@ -4,7 +4,7 @@ Sure, here is your updated GitHub bio with the additional links:
 
 👋 Hi there! I'm Jurgen Kruja, a passionate Developer with expertise in React, JavaScript, TypeScript, HTML, CSS, SCSS, PHP, MySQL, Next, PostgreSQL, MongoDB, Prisma, Sequelize, Photoshop, and Illustrator.
 
-🎓 I hold a MSc Diploma in Computer Engineering from European University of Tirana and a Bachelor's Diploma in Applied Math from the Faculty of Natural Sciences at the University of Tirana. Currently, I'm pursuing my MSc in Software Engineering at the European University of Tirana.
+🎓 I hold a MSc Diploma in Software Engineering from European University of Tirana and a Bachelor's Diploma in Applied Math from the Faculty of Natural Sciences at the University of Tirana.
 
 💼 With a solid foundation built over the years, I've contributed my skills at Ionian, spent almost a decade at Morix, and I'm currently part of the dynamic team at RevZone Solution.
 
