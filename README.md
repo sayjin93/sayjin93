@@ -1,7 +1,3 @@
-Sure, here is your updated GitHub bio with the additional links:
-
----
-
 👋 Hi there! I'm Jurgen Kruja, a passionate Developer with expertise in React, JavaScript, TypeScript, HTML, CSS, SCSS, PHP, MySQL, Next, PostgreSQL, MongoDB, Prisma, Sequelize, Photoshop, and Illustrator.
 
 🎓 I hold a MSc Diploma in Software Engineering from European University of Tirana and a Bachelor's Diploma in Applied Math from the Faculty of Natural Sciences at the University of Tirana.
@@ -21,5 +17,3 @@ Sure, here is your updated GitHub bio with the additional links:
 - 🛠️ JSFiddle: [sayjin93](https://jsfiddle.net/user/sayjin93)
 
 Excited to be a part of the coding community! 🚀
-
----
