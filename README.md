@@ -1,10 +1,12 @@
-👋 Hi there! I'm Jurgen Kruja, a passionate Developer with expertise in React, JavaScript, TypeScript, HTML, CSS, SCSS, PHP, MySQL, Next, PostgreSQL, MongoDB, Prisma, Sequelize, Photoshop, and Illustrator.
+👋 Hi there! I'm Jurgen Kruja, a passionate Developer and Lecturer in Software Development at the Faculty of Engineering, Informatics and Architecture at the European University of Tirana.
 
-🎓 I hold a MSc Diploma in Software Engineering from European University of Tirana and a Bachelor's Diploma in Applied Math from the Faculty of Natural Sciences at the University of Tirana.
+💻 I specialize in React, Next, Vue, JavaScript, TypeScript, HTML, CSS, SCSS, PHP, MySQL, MSSQL, PostgreSQL, MongoDB, Prisma, Sequelize, Photoshop, and Illustrator.
 
-💼 With a solid foundation built over the years, I've contributed my skills at Ionian, spent almost a decade at Morix, and I'm currently part of the dynamic team at RevZone Solution.
+🎓 I hold an MSc Diploma in Software Engineering from the European University of Tirana and a Bachelor's Diploma in Applied Math from the Faculty of Natural Sciences at the University of Tirana.
 
-🚀 I love crafting efficient and user-friendly solutions, and my GitHub is a reflection of my journey, featuring projects that showcase my dedication to the world of software development.
+💼 Over the years, I've built a solid foundation in software development, contributing my skills at Ionian, spending almost a decade at Morix, and currently being part of the dynamic team at RevZone Solution.
+
+🚀 I love crafting efficient and user-friendly solutions. My GitHub showcases a selection of my journey through public projects, though I also work on more advanced private repositories that aren't visible here.
 
 🌐 Let's connect and collaborate! Explore my repositories, and feel free to reach out:
 - 📧 Email: [info@jkruja.com](mailto:info@jkruja.com)
