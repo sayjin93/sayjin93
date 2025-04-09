@@ -8,7 +8,36 @@
 
 🚀 I love crafting efficient and user-friendly solutions. My GitHub showcases a selection of my journey through public projects, though I also work on more advanced private repositories that aren't visible here.
 
+<div style="display: flex; justify-content: center; align-items: center; gap:20px; flex-wrap: wrap;">
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sayjin93&theme=tokyonight&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sayjin93&theme=catppuccin_latte&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" />
+</picture>
+
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&size_weight=0.0005&count_weight=0.3&layout=compact&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&size_weight=0.0005&count_weight=0.3&layout=compact&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&size_weight=0.0005&count_weight=0.3&layout=compact&theme" height="220px" />
+</picture>
+</div>
+
+<br/>
+
 🌐 Let's connect and collaborate! Explore my repositories, and feel free to reach out:
+
 - 📧 Email: [info@jkruja.com](mailto:info@jkruja.com)
 - 🔗 Website: [jkruja.com](https://jkruja.com/)
 - 🐦 Twitter: [@KrujaJurgen](https://twitter.com/KrujaJurgen)
