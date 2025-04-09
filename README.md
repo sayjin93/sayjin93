@@ -13,9 +13,15 @@
 <div style="display: flex; justify-content: center; align-items: center; gap:20px; flex-wrap: wrap;">
 <div>
 
-![Jurgen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=nightowl">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_blue">
+</picture>
 
-![Top Langs languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=tokyonight)
+
+![Jurgen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=nightowl)
+
+![Top Langs languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=nightowl)
 
 </div>
 
