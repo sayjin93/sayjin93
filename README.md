@@ -12,25 +12,11 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap:20px; flex-wrap: wrap;">
 <div>
-<picture>
-  <source
-    srcset="(https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sayjin93&show_icons=true" />
-</picture>
-</div>
-<div>
 
-[![Top Langs languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/sayjin93/sayjin93#gh-dark-mode-only)
+![Jurgen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight#gh-dark-mode-only)
 
-[![Top Langs languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/sayjin93/sayjin9#gh-light-mode-only)
+![Top Langs languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=tokyonight#gh-dark-mode-only)
 
-</div>
 </div>
 
 🌐 Let's connect and collaborate! Explore my repositories, and feel free to reach out:
