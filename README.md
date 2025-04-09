@@ -13,15 +13,15 @@
 <div style="display: flex; justify-content: center; align-items: center; gap:20px; flex-wrap: wrap;">
 <div>
 
-[![Jurgen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sayjin93&theme=tokyonight&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true#gh-dark-mode-only)](https://github.com/sayjin93/sayjin93#gh-dark-mode-only)
-[![Jurgen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sayjin93&theme=catppuccin_latte&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&height#gh-light-mode-only)](https://github.com/sayjin93/sayjin93#gh-light-mode-only)
+![Jurgen's GitHub](https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight#gh-dark-mode-only)
+![Jurgen's GitHub](https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)
 
 </div>
 <div>
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/sayjin93/sayjin93#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=tokyonight#gh-dark-mode-only)
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/sayjin93/sayjin93#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=catppuccin_latte#gh-light-mode-only)
 
 </div>
 </div>
