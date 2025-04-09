@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center; align-items: center; gap:20px; flex-wrap: wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=nightowl" height="200px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=nightowl" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=radical" height="200px" />
 </div>
 
 🌐 Let's connect and collaborate! Explore my repositories, and feel free to reach out:
