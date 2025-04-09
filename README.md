@@ -11,23 +11,8 @@
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center; align-items: center; gap:20px; flex-wrap: wrap;">
-<div>
-
-<picture>
-  <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=nightowl"
-        media="(prefers-color-scheme: dark)" />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=shadow_blue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-  <img src="https://github-readme-stats.vercel.app/api?username=sayjin93&show_icons=true" />
-</picture>
-
-![Jurgen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=nightowl)
-
-![Top Langs languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=nightowl)
-
+<img src="https://github-readme-stats.vercel.app/api?username=sayjin93&hide=contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=nightowl" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayjin93&layout=compact&theme=nightowl" height="200px" />
 </div>
 
 🌐 Let's connect and collaborate! Explore my repositories, and feel free to reach out:
